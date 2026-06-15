@@ -1,0 +1,77 @@
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Vijaya%20Kumar!%20%E2%9C%A8&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20%26%20ML%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
+
+#### 👨‍💻 About Me
+
+I am a Full-Stack Engineer & Data Analyst who specializes in building intelligent, scalable applications. With a strong foundation in modern frontend frameworks (Vue.js) and robust backend/ML pipelines (Python), I focus on delivering end-to-end solutions that solve real-world problems.
+
+<a href="https://drive.google.com/file/d/1gfHSp5gCW0PlSTfAniIyXKBGgpc_bUCd/view?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/📄_View_My_Resume-2563EB?style=for-the-badge&logoColor=white" alt="Resume" />
+</a>
+
+<br/>
+
+- 🔭 I’m currently working on my **[Modern Vue Portfolio](https://portfolio-4fk.pages.dev)**, **LiverSegAI**, and the **Haettia Platform**
+- 🌱 I’m currently exploring deeper into **Machine Learning, System Architecture, and Cloud Deployments**
+- 🤝 I’m looking to collaborate on **Open Source AI tools and Full-Stack Vue/Python projects**
+- 💬 Ask me about: **Vue.js, Python, Data Analysis, and Web Development**
+- 📫 How to reach me: **[vijayakumar.chinta15@gmail.com](mailto:vijayakumar.chinta15@gmail.com)**
+- 📄 View my portfolio: **[portfolio-4fk.pages.dev](https://portfolio-4fk.pages.dev)**
+
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Core:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend:**  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Data:**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Tools & Infrastructure:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+---
+
+### 🚀 Highlighted Projects
+
+*   **[Personal Portfolio](https://github.com/VijayaKumarchinta/portfolio)** - A modern, dynamic portfolio website built with Vue 3, Vite, Tailwind CSS, and Three.js particle backgrounds.
+*   **LiverSegAI** - An AI-driven liver segmentation platform featuring secure auth and modern frontend architecture.
+*   **Haettia Platform** - A comprehensive full-stack application.
+*   **Interview Prep Guides** - High-ROI interview guides for Data Analysts, ML Engineers, and Python Developers.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VijayaKumarchinta&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VijayaKumarchinta&theme=radical&hide_border=true" alt="Your GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayaKumarchinta&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i><br><br>
+  <a href="https://portfolio-4fk.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-1f425f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
