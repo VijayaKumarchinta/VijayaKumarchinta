@@ -11,12 +11,11 @@ I am a Full-Stack Engineer & Data Analyst who specializes in building intelligen
 
 <br/>
 
-- 🔭 I’m currently working on my **[Modern Vue Portfolio](https://portfolio-4fk.pages.dev)**, **LiverSegAI**, and the **Haettia Platform**
+- 🔭 I’m currently working on my **[Modern Vue Portfolio](https://portfolio-4fk.pages.dev)**, **[LiverSegAI](https://liversegai.vijayakumar-chinta15.workers.dev/)**, and the **Haettia Platform**
 - 🌱 I’m currently exploring deeper into **Machine Learning, System Architecture, and Cloud Deployments**
 - 🤝 I’m looking to collaborate on **Open Source AI tools and Full-Stack Vue/Python projects**
 - 💬 Ask me about: **Vue.js, Python, Data Analysis, and Web Development**
 - 📫 How to reach me: **[vijayakumar.chinta15@gmail.com](mailto:vijayakumar.chinta15@gmail.com)**
-- 📄 View my portfolio: **[portfolio-4fk.pages.dev](https://portfolio-4fk.pages.dev)**
 
 
 ---
@@ -48,8 +47,8 @@ I am a Full-Stack Engineer & Data Analyst who specializes in building intelligen
 
 ### 🚀 Highlighted Projects
 
-*   **[Personal Portfolio](https://github.com/VijayaKumarchinta/portfolio)** - A modern, dynamic portfolio website built with Vue 3, Vite, Tailwind CSS, and Three.js particle backgrounds.
-*   **LiverSegAI** - An AI-driven liver segmentation platform featuring secure auth and modern frontend architecture.
+*   **[LiverSegAI](https://liversegai.vijayakumar-chinta15.workers.dev/)** - An AI-driven liver segmentation platform featuring secure auth and modern frontend architecture. ([View Source](https://github.com/VijayaKumarchinta/Liver_Segmentation))
+*   **[Personal Portfolio](https://portfolio-4fk.pages.dev)** - A modern, dynamic portfolio website built with Vue 3, Vite, Tailwind CSS, and Three.js particle backgrounds. ([View Source](https://github.com/VijayaKumarchinta/portfolio))
 *   **Haettia Platform** - A comprehensive full-stack application.
 *   **Interview Prep Guides** - High-ROI interview guides for Data Analysts, ML Engineers, and Python Developers.
 
@@ -73,5 +72,8 @@ I am a Full-Stack Engineer & Data Analyst who specializes in building intelligen
   <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i><br><br>
   <a href="https://portfolio-4fk.pages.dev" target="_blank">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-1f425f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://liversegai.vijayakumar-chinta15.workers.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Try_LiverSegAI-092E20?style=for-the-badge&logo=python&logoColor=white" alt="LiverSegAI" />
   </a>
 </div>
