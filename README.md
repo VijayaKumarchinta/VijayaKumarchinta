@@ -49,7 +49,8 @@ I am a Full-Stack Engineer & Data Analyst who specializes in building intelligen
 
 *   **[LiverSegAI](https://liversegai.vijayakumar-chinta15.workers.dev/)** - An AI-driven liver segmentation platform featuring secure auth and modern frontend architecture. ([View Source](https://github.com/VijayaKumarchinta/Liver_Segmentation))
 *   **[Personal Portfolio](https://portfolio-4fk.pages.dev)** - A modern, dynamic portfolio website built with Vue 3, Vite, Tailwind CSS, and Three.js particle backgrounds. ([View Source](https://github.com/VijayaKumarchinta/portfolio))
-*   **Haettia Platform** - A comprehensive full-stack application.
+*   **[Sales Analytics](https://github.com/VijayaKumarchinta/Sales_analytics)** - A platform for analyzing sales performance, profitability, customer behavior, product performance, and regional growth through advanced visual dashboards. ([View Source](https://github.com/VijayaKumarchinta/Sales_analytics))
+*   **Haettia Platform** - A comprehensive full-stack application. ([View Source](https://github.com/VijayaKumarchinta/HaettAssessment))
 *   **Interview Prep Guides** - High-ROI interview guides for Data Analysts, ML Engineers, and Python Developers.
 
 ---
