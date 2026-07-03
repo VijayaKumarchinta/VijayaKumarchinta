@@ -5,7 +5,7 @@
 
 I am a Full-Stack Engineer & Data Analyst who specializes in building intelligent, scalable applications. With a strong foundation in modern frontend frameworks (Vue.js) and robust backend/ML pipelines (Python), I focus on delivering end-to-end solutions that solve real-world problems.
 
-<a href="https://drive.google.com/file/d/1gfHSp5gCW0PlSTfAniIyXKBGgpc_bUCd/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1wD_U4-2OEEDd6V5uZMtI9QtDEYszo55h/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/📄_View_My_Resume-2563EB?style=for-the-badge&logoColor=white" alt="Resume" />
 </a>
 
