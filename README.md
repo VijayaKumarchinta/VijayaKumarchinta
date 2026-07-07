@@ -1,19 +1,24 @@
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Vijaya%20Kumar!%20%E2%9C%A8&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20%26%20ML%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
+<div align="center">
+  <h1>👋 Hi there, I'm Vijaya Kumar! ✨</h1>
+  <h3>Software Engineer | Data & ML Enthusiast</h3>
+  <br>
+  
+  <!-- Profile badges row -->
+  <a href="https://portfolio-4fk.pages.dev"><img src="https://img.shields.io/badge/Portfolio-1f425f?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://drive.google.com/file/d/1wD_U4-2OEEDd6V5uZMtI9QtDEYszo55h/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-2563EB?style=flat-square&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <a href="mailto:vijayakumar.chinta15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=VijayaKumarchinta&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 
-#### 👨‍💻 About Me
+---
 
-I am a Full-Stack Engineer & Data Analyst who specializes in building intelligent, scalable applications. With a strong foundation in modern frontend frameworks (Vue.js) and robust backend/ML pipelines (Python), I focus on delivering end-to-end solutions that solve real-world problems.
+### 👨‍💻 About Me
 
-<a href="https://drive.google.com/file/d/1wD_U4-2OEEDd6V5uZMtI9QtDEYszo55h/view?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/📄_View_My_Resume-2563EB?style=for-the-badge&logoColor=white" alt="Resume" />
-</a>
+I am a **Full-Stack Engineer & Data Analyst** who specializes in building intelligent, scalable applications. With a strong foundation in modern frontend frameworks (Vue.js, React) and robust backend/ML pipelines (Python, Django, Cloudflare Workers), I focus on delivering end-to-end solutions that solve real-world problems.
 
-<br/>
-
-- 🔭 I’m currently working on my **[Modern Vue Portfolio](https://portfolio-4fk.pages.dev)**, **[LiverSegAI](https://liversegai.vijayakumar-chinta15.workers.dev/)**, and the **Haettia Platform**
-- 🌱 I’m currently exploring deeper into **Machine Learning, System Architecture, and Cloud Deployments**
-- 🤝 I’m looking to collaborate on **Open Source AI tools and Full-Stack Vue/Python projects**
+- 🔭 I'm currently working on my **[Modern Vue Portfolio](https://portfolio-4fk.pages.dev)**, **[LiverSegAI](https://liversegai.vijayakumar-chinta15.workers.dev/)**, and the **Haettia Platform**
+- 🌱 I'm currently exploring deeper into **Machine Learning, System Architecture, and Cloud Deployments**
+- 🤝 I'm looking to collaborate on **Open Source AI tools and Full-Stack Vue/Python projects**
 - 💬 Ask me about: **Vue.js, Python, Data Analysis, and Web Development**
 - 📫 How to reach me: **[vijayakumar.chinta15@gmail.com](mailto:vijayakumar.chinta15@gmail.com)**
 
@@ -21,59 +26,178 @@ I am a Full-Stack Engineer & Data Analyst who specializes in building intelligen
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Core:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Languages & Core:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frontend:**  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend:**
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Backend & Data:**  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+**Backend & Data:**
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Tools & Infrastructure:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+**Tools & Infrastructure:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
 ### 🚀 Highlighted Projects
 
-| Project | Description | Live Demo | Source | Status |
-|---------|-------------|:---------:|:------:|:------:|
-| **🎨 Personal Portfolio** | Modern Vue 3 + Three.js portfolio with glassmorphism design | [🌐 Live](https://portfolio-4fk.pages.dev) | [📂 Repo](https://github.com/VijayaKumarchinta/portfolio) | ![Deploy](https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/portfolio/deploy.yml?branch=main&label=) |
-| **🤖 Profile Builder** | AI-powered profile generator using Wikipedia + Gemini | [🌐 Live](https://famous-person-profile-agent.pages.dev) | [📂 Repo](https://github.com/VijayaKumarchinta/famous-person-profile-agent) | ![Deploy](https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/famous-person-profile-agent/deploy.yml?branch=main&label=) |
-| **🏥 LiverSegAI** | AI liver segmentation with Attention U-Net + Django + Vue | [🌐 Live](https://liversegai.vijayakumar-chinta15.workers.dev) | [📂 Repo](https://github.com/VijayaKumarchinta/Liver_Segmentation) | ![CI](https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/Liver_Segmentation/ci.yml?branch=main&label=) |
-| **📊 Customer Seg.** | RFM segmentation + K-Means clustering dashboard | [🌐 Live](https://customersegme.streamlit.app) | [📂 Repo](https://github.com/VijayaKumarchinta/Customer_seg) | ![CI](https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/Customer_seg/ci.yml?branch=main&label=) |
-| **📈 Sales Analytics** | Vue 3 sales dashboard with Workers + D1 backend | [🌐 Live](https://sales-analytics.pages.dev) | [📂 Repo](https://github.com/VijayaKumarchinta/Sales_analytics) | ![Frontend](https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/Sales_analytics/deploy-frontend.yml?branch=main&label=) |
-| **🍱 Haett Portal** | Partner management portal with Vue + Workers + D1 | [🌐 Live](https://haett-assessment.pages.dev) | [📂 Repo](https://github.com/VijayaKumarchinta/HaettAssessment) | ![Frontend](https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/HaettAssessment/deploy-frontend.yml?branch=main&label=) |
+<!-- 🎨 Personal Portfolio -->
+<details open>
+<summary><strong>🎨 Personal Portfolio</strong> — <em>Vue 3 · Vite · Tailwind · Three.js</em></summary>
+<br>
+<table>
+  <tr>
+    <td width="60%">
+      A modern, dynamic portfolio website showcasing skills, projects, and experience. Features glassmorphism design, particle backgrounds, smooth scroll animations, and fully responsive layout.
+      <br><br>
+      <a href="https://portfolio-4fk.pages.dev"><img src="https://img.shields.io/badge/🌐_Live_Demo-1f425f?style=flat-square" alt="Live"/></a>
+      <a href="https://github.com/VijayaKumarchinta/portfolio"><img src="https://img.shields.io/badge/📂_Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+      <img src="https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/portfolio/deploy.yml?branch=main&style=flat-square&label=build" alt="Build"/>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue"/><br>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/><br>
+      <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Pages"/>
+    </td>
+  </tr>
+</table>
+</details>
 
-#### 🔌 API Services
+<!-- 🤖 Profile Builder -->
+<details open>
+<summary><strong>🤖 AI-Powered Profile Builder</strong> — <em>React 19 · TypeScript · Tailwind</em></summary>
+<br>
+<table>
+  <tr>
+    <td width="60%">
+      Creates structured profiles of famous people using Wikipedia extraction. Upgradable to AI Agent mode with Gemini for whole-internet search. Supports PDF/JSON export.
+      <br><br>
+      <a href="https://famous-person-profile-agent.pages.dev"><img src="https://img.shields.io/badge/🌐_Live_Demo-1f425f?style=flat-square" alt="Live"/></a>
+      <a href="https://github.com/VijayaKumarchinta/famous-person-profile-agent"><img src="https://img.shields.io/badge/📂_Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+      <img src="https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/famous-person-profile-agent/deploy.yml?branch=main&style=flat-square&label=build" alt="Build"/>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"/><br>
+      <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Pages"/>
+    </td>
+  </tr>
+</table>
+</details>
 
-| Service | Endpoint | Description |
-|---------|----------|-------------|
-| **HaettAssessment API** | [⚡ workers.dev](https://haett-assessment-api.vijayakumar-chinta15.workers.dev) | Auth, partner applications, discount codes |
-| **Sales Analytics API** | [⚡ workers.dev](https://sales-analytics-api.vijayakumar-chinta15.workers.dev/health) | KPIs, trends, customer insights, reports |
+<!-- 🏥 LiverSegAI -->
+<details open>
+<summary><strong>🏥 LiverSegAI</strong> — <em>Django · Vue 3 · PyTorch · PostgreSQL</em></summary>
+<br>
+<table>
+  <tr>
+    <td width="60%">
+      AI-powered liver segmentation from CT scans using Attention U-Net. Features role-based access (Admin, Radiologist, Clinician, Technician), scan upload, and clinical report generation.
+      <br><br>
+      <a href="https://liversegai.vijayakumar-chinta15.workers.dev"><img src="https://img.shields.io/badge/🌐_Live_Demo-1f425f?style=flat-square" alt="Live"/></a>
+      <a href="https://github.com/VijayaKumarchinta/Liver_Segmentation"><img src="https://img.shields.io/badge/📂_Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+      <img src="https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/Liver_Segmentation/ci.yml?branch=main&style=flat-square&label=build" alt="Build"/>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/><br>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+    </td>
+  </tr>
+</table>
+</details>
+
+<!-- 📊 Customer Segmentation -->
+<details open>
+<summary><strong>📊 Customer Segmentation Dashboard</strong> — <em>Python · Streamlit · scikit-learn · Plotly</em></summary>
+<br>
+<table>
+  <tr>
+    <td width="60%">
+      Analyzes 1M+ transactions using RFM analysis and K-Means clustering. Interactive dashboard with cohort heatmaps, CLV prediction, and actionable marketing recommendations.
+      <br><br>
+      <a href="https://customersegme.streamlit.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-1f425f?style=flat-square" alt="Live"/></a>
+      <a href="https://github.com/VijayaKumarchinta/Customer_seg"><img src="https://img.shields.io/badge/📂_Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+      <img src="https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/Customer_seg/ci.yml?branch=main&style=flat-square&label=build" alt="Build"/>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/><br>
+      <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="sklearn"/><br>
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+    </td>
+  </tr>
+</table>
+</details>
+
+<!-- 📈 Sales Analytics -->
+<details open>
+<summary><strong>📈 Sales Analytics Platform</strong> — <em>Vue 3 · Cloudflare Workers · D1 · ApexCharts</em></summary>
+<br>
+<table>
+  <tr>
+    <td width="60%">
+      Full-stack sales analytics platform with 25+ API endpoints. Features real-time KPIs, revenue trends, customer insights, and CSV/PDF export — powered by Cloudflare Workers + D1.
+      <br><br>
+      <a href="https://sales-analytics.pages.dev"><img src="https://img.shields.io/badge/🌐_Frontend-1f425f?style=flat-square" alt="Frontend"/></a>
+      <a href="https://sales-analytics-api.vijayakumar-chinta15.workers.dev/health"><img src="https://img.shields.io/badge/⚡_API_Health-00C853?style=flat-square" alt="API"/></a>
+      <a href="https://github.com/VijayaKumarchinta/Sales_analytics"><img src="https://img.shields.io/badge/📂_Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+      <img src="https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/Sales_analytics/deploy-frontend.yml?branch=main&style=flat-square&label=frontend" alt="Frontend Build"/>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue"/><br>
+      <img src="https://img.shields.io/badge/Workers_F800?style=flat-square&logo=cloudflare&logoColor=white" alt="Workers"/><br>
+      <img src="https://img.shields.io/badge/ApexCharts-FF6B35?style=flat-square&logo=chartdotjs&logoColor=white" alt="Charts"/>
+    </td>
+  </tr>
+</table>
+</details>
+
+<!-- 🍱 Haett Portal -->
+<details open>
+<summary><strong>🍱 Haett Partner Portal</strong> — <em>Vue 3 · Cloudflare Workers · D1 · JWT</em></summary>
+<br>
+<table>
+  <tr>
+    <td width="60%">
+      Self-serve partner management system with application flow, admin dashboard, and automated discount code generation. Backend rewritten as Cloudflare Workers with D1 database.
+      <br><br>
+      <a href="https://haett-assessment.pages.dev"><img src="https://img.shields.io/badge/🌐_Frontend-1f425f?style=flat-square" alt="Frontend"/></a>
+      <a href="https://haett-assessment-api.vijayakumar-chinta15.workers.dev"><img src="https://img.shields.io/badge/⚡_API-00C853?style=flat-square" alt="API"/></a>
+      <a href="https://github.com/VijayaKumarchinta/HaettAssessment"><img src="https://img.shields.io/badge/📂_Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+      <img src="https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/HaettAssessment/deploy-frontend.yml?branch=main&style=flat-square&label=frontend" alt="Frontend Build"/>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue"/><br>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/><br>
+      <img src="https://img.shields.io/badge/D1-FF6B35?style=flat-square&logo=cloudflare&logoColor=white" alt="D1"/>
+    </td>
+  </tr>
+</table>
+</details>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VijayaKumarchinta&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VijayaKumarchinta&theme=radical&hide_border=true" alt="Your GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VijayaKumarchinta&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VijayaKumarchinta&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
-<br/>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayaKumarchinta&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
@@ -82,14 +206,9 @@ I am a Full-Stack Engineer & Data Analyst who specializes in building intelligen
 ---
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i><br><br>
-  <a href="https://portfolio-4fk.pages.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-1f425f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://liversegai.vijayakumar-chinta15.workers.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Try_LiverSegAI-092E20?style=for-the-badge&logo=python&logoColor=white" alt="LiverSegAI" />
-  </a>
-  <a href="https://famous-person-profile-agent.pages.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Try_Profile_Builder-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="Profile Builder" />
-  </a>
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <br><br>
+  <a href="https://portfolio-4fk.pages.dev"><img src="https://img.shields.io/badge/Portfolio-1f425f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://liversegai.vijayakumar-chinta15.workers.dev"><img src="https://img.shields.io/badge/LiverSegAI-092E20?style=for-the-badge&logo=python&logoColor=white" alt="LiverSegAI"/></a>
+  <a href="https://famous-person-profile-agent.pages.dev"><img src="https://img.shields.io/badge/Profile_Builder-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="Profile Builder"/></a>
 </div>
