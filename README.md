@@ -208,7 +208,11 @@ I am a **Full-Stack Engineer & Data Analyst** who specializes in building intell
 <div align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
   <br><br>
-  <a href="https://portfolio-4fk.pages.dev"><img src="https://img.shields.io/badge/Portfolio-1f425f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://liversegai.vijayakumar-chinta15.workers.dev"><img src="https://img.shields.io/badge/LiverSegAI-092E20?style=for-the-badge&logo=python&logoColor=white" alt="LiverSegAI"/></a>
-  <a href="https://famous-person-profile-agent.pages.dev"><img src="https://img.shields.io/badge/Profile_Builder-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="Profile Builder"/></a>
+  <a href="https://portfolio-4fk.pages.dev"><img src="https://img.shields.io/badge/Portfolio-1f425f?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://famous-person-profile-agent.pages.dev"><img src="https://img.shields.io/badge/Profile_Builder-8A2BE2?style=flat-square&logo=react&logoColor=white" alt="Profile Builder"/></a>
+  <a href="https://liversegai.vijayakumar-chinta15.workers.dev"><img src="https://img.shields.io/badge/LiverSegAI-092E20?style=flat-square&logo=python&logoColor=white" alt="LiverSegAI"/></a>
+  <br>
+  <a href="https://customersegme.streamlit.app"><img src="https://img.shields.io/badge/Customer_Seg.-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Customer Seg"/></a>
+  <a href="https://sales-analytics.pages.dev"><img src="https://img.shields.io/badge/Sales_Analytics-2563EB?style=flat-square&logo=vue.js&logoColor=white" alt="Sales Analytics"/></a>
+  <a href="https://haett-assessment.pages.dev"><img src="https://img.shields.io/badge/Haett_Portal-00C853?style=flat-square&logo=vue.js&logoColor=white" alt="Haett Portal"/></a>
 </div>
