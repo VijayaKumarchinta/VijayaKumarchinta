@@ -193,14 +193,14 @@ I am a **Full-Stack Engineer & Data Analyst** who specializes in building intell
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VijayaKumarchinta&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-worker.vijayakumar-chinta15.workers.dev/api?username=VijayaKumarchinta&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=VijayaKumarchinta&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayaKumarchinta&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-worker.vijayakumar-chinta15.workers.dev/top-langs?username=VijayaKumarchinta&theme=radical" alt="Top Languages" />
 </div>
 
 ---
