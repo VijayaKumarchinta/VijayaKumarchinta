@@ -17,7 +17,6 @@ I am a Full-Stack Engineer & Data Analyst who specializes in building intelligen
 - 💬 Ask me about: **Vue.js, Python, Data Analysis, and Web Development**
 - 📫 How to reach me: **[vijayakumar.chinta15@gmail.com](mailto:vijayakumar.chinta15@gmail.com)**
 
-
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -25,33 +24,45 @@ I am a Full-Stack Engineer & Data Analyst who specializes in building intelligen
 **Languages & Core:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frontend:**  
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Data:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Tools & Infrastructure:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
 ### 🚀 Highlighted Projects
 
-*   **[LiverSegAI](https://liversegai.vijayakumar-chinta15.workers.dev/)** - An AI-driven liver segmentation platform featuring secure auth and modern frontend architecture. ([View Source](https://github.com/VijayaKumarchinta/Liver_Segmentation))
-*   **[Personal Portfolio](https://portfolio-4fk.pages.dev)** - A modern, dynamic portfolio website built with Vue 3, Vite, Tailwind CSS, and Three.js particle backgrounds. ([View Source](https://github.com/VijayaKumarchinta/portfolio))
-*   **[Sales Analytics](https://github.com/VijayaKumarchinta/Sales_analytics)** - A platform for analyzing sales performance, profitability, customer behavior, product performance, and regional growth through advanced visual dashboards. ([View Source](https://github.com/VijayaKumarchinta/Sales_analytics))
-*   **Haettia Platform** - A comprehensive full-stack application. ([View Source](https://github.com/VijayaKumarchinta/HaettAssessment))
-*   **Interview Prep Guides** - High-ROI interview guides for Data Analysts, ML Engineers, and Python Developers.
+| Project | Description | Live Demo | Source | Status |
+|---------|-------------|:---------:|:------:|:------:|
+| **🎨 Personal Portfolio** | Modern Vue 3 + Three.js portfolio with glassmorphism design | [🌐 Live](https://portfolio-4fk.pages.dev) | [📂 Repo](https://github.com/VijayaKumarchinta/portfolio) | ![Deploy](https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/portfolio/deploy.yml?branch=main&label=) |
+| **🤖 Profile Builder** | AI-powered profile generator using Wikipedia + Gemini | [🌐 Live](https://famous-person-profile-agent.pages.dev) | [📂 Repo](https://github.com/VijayaKumarchinta/famous-person-profile-agent) | ![Deploy](https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/famous-person-profile-agent/deploy.yml?branch=main&label=) |
+| **🏥 LiverSegAI** | AI liver segmentation with Attention U-Net + Django + Vue | [🌐 Live](https://liversegai.vijayakumar-chinta15.workers.dev) | [📂 Repo](https://github.com/VijayaKumarchinta/Liver_Segmentation) | ![CI](https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/Liver_Segmentation/ci.yml?branch=main&label=) |
+| **📊 Customer Seg.** | RFM segmentation + K-Means clustering dashboard | [🌐 Live](https://customersegme.streamlit.app) | [📂 Repo](https://github.com/VijayaKumarchinta/Customer_seg) | ![CI](https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/Customer_seg/ci.yml?branch=main&label=) |
+| **📈 Sales Analytics** | Vue 3 sales dashboard with Workers + D1 backend | [🌐 Live](https://sales-analytics.pages.dev) | [📂 Repo](https://github.com/VijayaKumarchinta/Sales_analytics) | ![Frontend](https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/Sales_analytics/deploy-frontend.yml?branch=main&label=) |
+| **🍱 Haett Portal** | Partner management portal with Vue + Workers + D1 | [🌐 Live](https://haett-assessment.pages.dev) | [📂 Repo](https://github.com/VijayaKumarchinta/HaettAssessment) | ![Frontend](https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/HaettAssessment/deploy-frontend.yml?branch=main&label=) |
+
+#### 🔌 API Services
+
+| Service | Endpoint | Description |
+|---------|----------|-------------|
+| **HaettAssessment API** | [⚡ workers.dev](https://haett-assessment-api.vijayakumar-chinta15.workers.dev) | Auth, partner applications, discount codes |
+| **Sales Analytics API** | [⚡ workers.dev](https://sales-analytics-api.vijayakumar-chinta15.workers.dev/health) | KPIs, trends, customer insights, reports |
 
 ---
 
@@ -69,6 +80,7 @@ I am a Full-Stack Engineer & Data Analyst who specializes in building intelligen
 </div>
 
 ---
+
 <div align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i><br><br>
   <a href="https://portfolio-4fk.pages.dev" target="_blank">
@@ -76,5 +88,8 @@ I am a Full-Stack Engineer & Data Analyst who specializes in building intelligen
   </a>
   <a href="https://liversegai.vijayakumar-chinta15.workers.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Try_LiverSegAI-092E20?style=for-the-badge&logo=python&logoColor=white" alt="LiverSegAI" />
+  </a>
+  <a href="https://famous-person-profile-agent.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Try_Profile_Builder-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="Profile Builder" />
   </a>
 </div>
