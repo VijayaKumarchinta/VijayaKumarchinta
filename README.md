@@ -194,7 +194,7 @@ I am a **Full-Stack Engineer & Data Analyst** who specializes in building intell
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VijayaKumarchinta&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.vercel.app?user=VijayaKumarchinta&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=VijayaKumarchinta&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
