@@ -7,7 +7,7 @@
   <a href="https://portfolio-4fk.pages.dev"><img src="https://img.shields.io/badge/Portfolio-1f425f?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://drive.google.com/file/d/1wD_U4-2OEEDd6V5uZMtI9QtDEYszo55h/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-2563EB?style=flat-square&logo=googledrive&logoColor=white" alt="Resume"/></a>
   <a href="mailto:vijayakumar.chinta15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=VijayaKumarchinta&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=VijayaKumarchinta&countColor=%2337a779&style=flat-square" alt="Profile Views"/>
 </div>
 
 ---
@@ -158,7 +158,7 @@ I am a **Full-Stack Engineer & Data Analyst** who specializes in building intell
     </td>
     <td width="40%" align="center">
       <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue"/><br>
-      <img src="https://img.shields.io/badge/Workers_F800?style=flat-square&logo=cloudflare&logoColor=white" alt="Workers"/><br>
+      <img src="https://img.shields.io/badge/Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Workers"/><br>
       <img src="https://img.shields.io/badge/ApexCharts-FF6B35?style=flat-square&logo=chartdotjs&logoColor=white" alt="Charts"/>
     </td>
   </tr>
@@ -175,7 +175,7 @@ I am a **Full-Stack Engineer & Data Analyst** who specializes in building intell
       Self-serve partner management system with application flow, admin dashboard, and automated discount code generation. Backend rewritten as Cloudflare Workers with D1 database.
       <br><br>
       <a href="https://haett-assessment.pages.dev"><img src="https://img.shields.io/badge/🌐_Frontend-1f425f?style=flat-square" alt="Frontend"/></a>
-      <a href="https://haett-assessment-api.vijayakumar-chinta15.workers.dev"><img src="https://img.shields.io/badge/⚡_API-00C853?style=flat-square" alt="API"/></a>
+      <a href="https://haett-assessment-api.vijayakumar-chinta15.workers.dev/health"><img src="https://img.shields.io/badge/⚡_API-00C853?style=flat-square" alt="API"/></a>
       <a href="https://github.com/VijayaKumarchinta/HaettAssessment"><img src="https://img.shields.io/badge/📂_Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
       <img src="https://img.shields.io/github/actions/workflow/status/VijayaKumarchinta/HaettAssessment/deploy-frontend.yml?branch=main&style=flat-square&label=frontend" alt="Frontend Build"/>
     </td>
@@ -194,7 +194,7 @@ I am a **Full-Stack Engineer & Data Analyst** who specializes in building intell
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VijayaKumarchinta&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VijayaKumarchinta&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=VijayaKumarchinta&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
