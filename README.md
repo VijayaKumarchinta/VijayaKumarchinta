@@ -189,7 +189,7 @@ I am a **Full-Stack Engineer & Data Analyst** who specializes in building intell
   <a href="https://vijayakumarchinta-portfolio.pages.dev"><img src="https://img.shields.io/badge/Portfolio-1f425f?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://vijayakumarchinta-profile-builder.pages.dev"><img src="https://img.shields.io/badge/Profile_Builder-8A2BE2?style=flat-square&logo=react&logoColor=white" alt="Profile Builder"/></a>
   <br>
-  <a href="https://customer-segmentation-dashboard.streamlit.app"><img src="https://img.shields.io/badge/Customer_Seg.-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Customer Seg"/></a>
+  <a href="https://customersegme.streamlit.app/"><img src="https://img.shields.io/badge/Customer_Seg.-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Customer Seg"/></a>
   <a href="https://vijayakumarchinta-sales-analytics.pages.dev"><img src="https://img.shields.io/badge/Sales_Analytics-2563EB?style=flat-square&logo=vue.js&logoColor=white" alt="Sales Analytics"/></a>
   <a href="https://vijayakumarchinta-haett-portal.pages.dev"><img src="https://img.shields.io/badge/Haett_Portal-00C853?style=flat-square&logo=vue.js&logoColor=white" alt="Haett Portal"/></a>
 </div>
