@@ -130,7 +130,6 @@ I am a **Full-Stack Engineer & Data Analyst** who specializes in building intell
       Full-stack sales analytics platform with 25+ API endpoints. Features real-time KPIs, revenue trends, customer insights, and CSV/PDF export — powered by Cloudflare Workers + D1.
       <br><br>
       <a href="https://vijayakumarchinta-sales-analytics.pages.dev"><img src="https://img.shields.io/badge/🌐_Frontend-1f425f?style=flat-square" alt="Frontend"/></a>
-      <a href="https://sales-analytics-api.vijayakumar-chinta15.workers.dev/health"><img src="https://img.shields.io/badge/⚡_API_Health-00C853?style=flat-square" alt="API"/></a>
       <a href="https://github.com/VijayaKumarchinta/Sales_analytics"><img src="https://img.shields.io/badge/📂_Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
       <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Pages"/>
     </td>
@@ -153,7 +152,6 @@ I am a **Full-Stack Engineer & Data Analyst** who specializes in building intell
       Self-serve partner management system with application flow, admin dashboard, and automated discount code generation. Backend rewritten as Cloudflare Workers with D1 database.
       <br><br>
       <a href="https://vijayakumarchinta-haett-portal.pages.dev"><img src="https://img.shields.io/badge/🌐_Frontend-1f425f?style=flat-square" alt="Frontend"/></a>
-      <a href="https://haett-assessment-api.vijayakumar-chinta15.workers.dev/health"><img src="https://img.shields.io/badge/⚡_API-00C853?style=flat-square" alt="API"/></a>
       <a href="https://github.com/VijayaKumarchinta/HaettAssessment"><img src="https://img.shields.io/badge/📂_Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
       <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Pages"/>
     </td>
@@ -171,14 +169,14 @@ I am a **Full-Stack Engineer & Data Analyst** who specializes in building intell
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-worker.vijayakumar-chinta15.workers.dev/api?username=VijayaKumarchinta&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VijayaKumarchinta&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=VijayaKumarchinta&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-stats-worker.vijayakumar-chinta15.workers.dev/top-langs?username=VijayaKumarchinta&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VijayaKumarchinta&theme=radical" alt="Top Languages" />
 </div>
 
 ---
