@@ -123,6 +123,8 @@
 <br>
 
 <!-- ─── Contribution Snake ─── -->
+<!-- Requires a GitHub Action workflow (platane/snk) to generate this SVG.
+     See https://github.com/platane/snk for setup instructions. -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VijayaKumarchinta/VijayaKumarchinta/output/github-contribution-grid-snake-dark.svg">
@@ -434,8 +436,9 @@
 
 <div align="center">
   <a href="https://wakatime.com">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VijayaKumarchinta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=6" width="55%" alt="WakaTime">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VijayaKumarchinta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=6" width="55%" alt="WakaTime Stats">
   </a>
+  <br><sub>📊 Requires a <a href="https://wakatime.com">WakaTime</a> account with editor plugin to populate. Shows empty until configured.</sub>
 </div>
 
 <br>
@@ -464,9 +467,6 @@
   </a>
   <a href="https://dev.to/vijayakumarchinta">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
-  </a>
-  <a href="https://stackoverflow.com/users/vijayakumarchinta">
-    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
   </a>
   <a href="https://x.com/vijayakumarchin">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter">
