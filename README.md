@@ -32,7 +32,7 @@
       <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub">
     </a>
     <br>
-    <img src="https://api.visitorbadge.io/api/visitors?path=VijayaKumarchinta&countColor=%2337a779&style=flat-square&label=Visitors" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=VijayaKumarchinta&style=flat-square&color=37a779" alt="Profile Views">
     <img src="https://img.shields.io/github/followers/VijayaKumarchinta?style=flat-square&logo=github&label=Followers&color=6366F1" alt="Followers">
     <img src="https://img.shields.io/github/stars/VijayaKumarchinta?style=flat-square&logo=github&label=Stars&color=FF6B6B" alt="Stars">
   </p>
@@ -90,7 +90,7 @@
 
 <!-- ─── Stats Cards ─── -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VijayaKumarchinta&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=percentile&icon_color=6366F1&title_color=6366F1" width="49%" alt="GitHub Stats">
+  <img src="https://github-stats-extended.vercel.app/api?username=VijayaKumarchinta&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=percentile&icon_color=6366F1&title_color=6366F1" width="49%" alt="GitHub Stats">
   <img src="https://streak-stats.demolab.com?user=VijayaKumarchinta&theme=radical&hide_border=true&background=0D1117&border=6366F1&fire=FF6B6B&ring=6366F1" width="49%" alt="GitHub Streak">
 </div>
 
@@ -98,7 +98,7 @@
 
 <!-- ─── Top Languages ─── -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayaKumarchinta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8" width="45%" alt="Top Languages">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VijayaKumarchinta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8" width="45%" alt="Top Languages">
 </div>
 
 <br>
@@ -108,17 +108,7 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=VijayaKumarchinta&theme=radical&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B&area=true&area_color=6366F1" width="95%" alt="Contribution Graph">
   </a>
-</div>
-
-<br>
-
-
-
-<br>
-
-
-
-<br>
+</div><br>
 
 <!-- ══════════════════════════════════════════════════════════════
      TECH STACK
@@ -383,8 +373,6 @@
 
 <br>
 
-
-
 <!-- ══════════════════════════════════════════════════════════════
      CONNECT WITH ME
      ══════════════════════════════════════════════════════════════ -->
@@ -416,8 +404,6 @@
 </div>
 
 <br>
-
-
 
 <!-- ══════════════════════════════════════════════════════════════
      QUOTE & FOOTER
