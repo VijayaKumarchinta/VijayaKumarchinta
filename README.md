@@ -96,10 +96,9 @@
 
 <br>
 
-<!-- ─── Top Languages & Activity Graph ─── -->
+<!-- ─── Top Languages ─── -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayaKumarchinta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8" width="38%" alt="Top Languages">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VijayaKumarchinta&theme=radical&utcOffset=8" width="39%" alt="Productive Time">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayaKumarchinta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8" width="45%" alt="Top Languages">
 </div>
 
 <br>
@@ -113,25 +112,11 @@
 
 <br>
 
-<!-- ─── Trophies ─── -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VijayaKumarchinta&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" width="80%" alt="Trophies">
-  </a>
-</div>
+
 
 <br>
 
-<!-- ─── Contribution Snake ─── -->
-<!-- Requires a GitHub Action workflow (platane/snk) to generate this SVG.
-     See https://github.com/platane/snk for setup instructions. -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VijayaKumarchinta/VijayaKumarchinta/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VijayaKumarchinta/VijayaKumarchinta/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/VijayaKumarchinta/VijayaKumarchinta/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+
 
 <br>
 
@@ -398,50 +383,7 @@
 
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════
-     RECENT ACTIVITY
-     ══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28">
-  Recent GitHub Activity
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28">
-</h2>
-
-<br>
-
-<!-- RECENT_ACTIVITY:START -->
-<!-- This section is auto-updated by github-readme-activity-graph -->
-<!-- RECENT_ACTIVITY:END -->
-
-<div align="center">
-  <a href="https://github.com/VijayaKumarchinta">
-    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All">
-  </a>
-</div>
-
-<br>
-
-<!-- ══════════════════════════════════════════════════════════════
-     WEEKLY CODING ACTIVITY (via WakaTime)
-     ══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28">
-  Weekly Coding Breakdown
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28">
-</h2>
-
-<br>
-
-<div align="center">
-  <a href="https://wakatime.com">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VijayaKumarchinta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=6" width="55%" alt="WakaTime Stats">
-  </a>
-  <br><sub>📊 Requires a <a href="https://wakatime.com">WakaTime</a> account with editor plugin to populate. Shows empty until configured.</sub>
-</div>
-
-<br>
 
 <!-- ══════════════════════════════════════════════════════════════
      CONNECT WITH ME
@@ -468,37 +410,14 @@
   <a href="https://dev.to/vijayakumarchinta">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
   </a>
-  <a href="https://x.com/vijayakumarchin">
+  <a href="https://x.com/vijayakumarchinta">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter">
   </a>
 </div>
 
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════
-     SUPPORT
-     ══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/KG4k4Qgm2LjmFdA4xx/giphy.gif" width="28">
-  Support My Work
-  <img src="https://media.giphy.com/media/KG4k4Qgm2LjmFdA4xx/giphy.gif" width="28">
-</h2>
-
-<br>
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/vijayakumarchinta">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-  <a href="https://github.com/sponsors/VijayaKumarchinta">
-    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor">
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/⭐_If_you_like_my_work,_consider_starring_repos!-6366F1?style=flat-square" alt="Star">
-</div>
-
-<br>
 
 <!-- ══════════════════════════════════════════════════════════════
      QUOTE & FOOTER
