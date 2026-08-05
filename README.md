@@ -19,7 +19,7 @@
     <a href="https://vijayakumarchinta-portfolio.pages.dev">
       <img src="https://img.shields.io/badge/Portfolio-%236366F1?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27" alt="Portfolio">
     </a>
-    <a href="https://drive.google.com/file/d/1wD_U4-2OEEDd6V5uZMtI9QtDEYszo55h/view">
+    <a href="https://drive.google.com/file/d/1laOt75xrfQAGtD___iylBUH2EehX-pBA/view?usp=sharing">
       <img src="https://img.shields.io/badge/Resume-%23FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=1a1b27" alt="Resume">
     </a>
     <a href="mailto:vijayakumar.chinta15@gmail.com">
